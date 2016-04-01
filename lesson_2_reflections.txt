@@ -39,3 +39,11 @@ in the diagram the way that we do?
 Merging branches combines the changes that were made since the branch was formed.
 We represent it this way so that we can visualize the parents and which commits
 we have access to.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+It's helpful to have automatic merging for large files or lots of changes, but
+it's difficult to be sure that Git is always making the right changes when
+merging.
