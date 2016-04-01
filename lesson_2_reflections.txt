@@ -24,3 +24,10 @@ your history organized? How would branches help?
 
 If you want to try a change in the code, but don't want to modify
 the main code if other people need access to the code as well.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Drawing diagrams allows you to visualize parents, branches, etc.
+and potentially give insight to your repo structure and answer
+any problems you may be having.
