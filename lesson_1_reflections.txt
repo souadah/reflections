@@ -1,0 +1,25 @@
+By viewing the diff, I could pinpoint the exact lines that were changed
+to find the bugs.
+
+Having access to all versions of a file allows a programmer to easily
+revert to when a program was working correctly and track the changes
+that were made that led to a program working incorrectly, instead of 
+blindly guessing at what went wrong.
+
+The pros of choosing when to commit are that you have flexibility and
+the changes are more likely to make sense and have logical progression.
+The cons of choosing when to commit are that people can be forgetful or
+not have good accumen for making commits at logical time points.
+
+Git is designed for programming, where multiple files call and interact
+with each other, so it makes sense that Git allows for multiple files
+to be committed together. Google Docs is designed for creating various
+types of documents, which don't depend on each other.
+
+Git log lists all the commits of a file. Git diff can show the differences
+between different commits.
+
+Using version control, you know you always have the option of reverting
+back if something doesn't work.
+
+I want to use git to aid in data science projects.
