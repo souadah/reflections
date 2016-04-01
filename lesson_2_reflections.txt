@@ -14,5 +14,13 @@ each commit that was made.
 
 How can you use the staging area to make sure you have one
 commit per logical change?
+
 Move files to the staging area one at a time or in groups
 for each commit.
+
+
+What are some situations when branches would be helpful in keeping
+your history organized? How would branches help?
+
+If you want to try a change in the code, but don't want to modify
+the main code if other people need access to the code as well.
